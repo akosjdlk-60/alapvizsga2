@@ -1,0 +1,75 @@
+Emberek száma: 2
+
+1. Ember:
+Név: Első Ember
+Kor: 18
+Férfi? (igen/nem): igen
+Tömeg (kg): 75
+
+2. Ember:
+Név: Második Ember
+Kor: 10
+
+18 évnél fiatalabb nem fogyaszthat alkoholt!
+
+Kor: 20
+Férfi? (igen/nem): nem
+Tömeg (kg): 66
+
+Első Ember által fogyasztott italok:
+1. Whiskey
+2. Jameson Kóla
+3. Vodkanarancs
+4. Sör
+5. Bor
+6. Kisfröccs
+7. Pálinka
+Választott ital sorszáma: 1
+Mennyiség: 2
+
+Még egy ital? (igen/nem): igen
+1. Whiskey
+2. Jameson Kóla
+3. Vodkanarancs
+4. Sör
+5. Bor
+6. Kisfröccs
+7. Pálinka
+Választott ital sorszáma: 2
+Mennyiség: 1
+
+Még egy ital? (igen/nem): nem
+
+Második Ember által fogyasztott italok:
+1. Whiskey
+2. Jameson Kóla
+3. Vodkanarancs
+4. Sör
+5. Bor
+6. Kisfröccs
+7. Pálinka
+Választott ital sorszáma: 5
+Mennyiség: 
+
+Nem megfelelő mennyiség!
+
+Mennyiség: 2 
+
+Még egy ital? (igen/nem): igen
+1. Whiskey
+2. Jameson Kóla
+3. Vodkanarancs
+4. Sör
+5. Bor
+6. Kisfröccs
+7. Pálinka
+Választott ital sorszáma: 6
+Mennyiség: 1
+
+Még egy ital? (igen/nem): nem
+
+Első Ember véralkohol szintje: 0.669%
+Első Ember fogyasztott italokra költött összeg: 3400 Ft
+
+Második Ember véralkohol szintje: 0.209%
+Második Ember fogyasztott italokra költött összeg: 4500 Ft
