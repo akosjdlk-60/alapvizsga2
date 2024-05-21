@@ -3,8 +3,9 @@ def main() -> None:
     
     resztvevok = int(input("A házibuliban résztvevők száma: "))  # 1 p
     rendorok = int(input("A rendőrök száma: ")) # 1 p
+    elso_elkap = int(input("Első rendőr által elkapott emberek: "))
     
-    elszokott = rendori_elfogas(resztvevok, rendorok, 1)
+    elszokott = rendori_elfogas(resztvevok, rendorok, elso_elkap)
 
     if elszokott == resztvevok: # 1p
         print("A rendőrök nem tudtak senkit sem elfogni a házibuliban.") # 1p
